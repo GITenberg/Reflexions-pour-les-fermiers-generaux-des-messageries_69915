@@ -1,0 +1,33 @@
+_repo: Reflexions-pour-les-fermiers-generaux-des-messageries_69915
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2023-01-31'
+identifiers:
+  gutenberg: '69915'
+language: fr
+pgterms:marc904: https://archive.org/details/reflexionsferm00unse
+pgterms:marc905: 20060325163535anonymous
+pgterms:marc906: '1789'
+pgterms:marc907: FR
+production_note: Adrian Mastronardi, Claudine Corbasson and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This file was produced from images generously
+  made available by The Internet Archive)
+publication_note: 'France: l''Impr. de Prault,1789.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Réflexions pour les fermiers-généraux des messageries
+url: http://www.gutenberg.org/ebooks/69915
