@@ -1,5 +1,8 @@
 _repo: Reflexions-pour-les-fermiers-generaux-des-messageries_69915
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69915-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Anonymous_work
     - http://www.gutenberg.org/ebooks/author/49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69915#Reflexions-pour-les-fermiers-generaux-des-messageries
 gutenberg_issued: '2023-01-31'
 identifiers:
   gutenberg: '69915'
